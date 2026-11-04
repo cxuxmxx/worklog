@@ -24,3 +24,6 @@
 ### CS · 시스템 설계
 
 - [알림 시스템 설계](cs/system-design/notification-system.md)
+
+- [실패 기반 IP 자동 차단 설계](cs/system-design/failure-based-auto-blocking.md)
+- [Rate Limiter 설계: 알고리즘에서 분산 운영까지](cs/system-design/rate-limiter.md)
