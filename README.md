@@ -27,3 +27,7 @@
 
 - [실패 기반 IP 자동 차단 설계](cs/system-design/failure-based-auto-blocking.md)
 - [Rate Limiter 설계: 알고리즘에서 분산 운영까지](cs/system-design/rate-limiter.md)
+
+### Spring
+
+- [트랜잭션 전파: 결제·송금 Java 예제](spring/transaction-propagation.md)
