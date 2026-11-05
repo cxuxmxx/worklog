@@ -31,3 +31,4 @@
 ### Spring
 
 - [트랜잭션 전파: 결제·송금 Java 예제](spring/transaction-propagation.md)
+- [스프링 컨테이너와 빈 생성 원리](spring/container-bean-lifecycle.md)
