@@ -28,6 +28,10 @@
 - [실패 기반 IP 자동 차단 설계](cs/system-design/failure-based-auto-blocking.md)
 - [Rate Limiter 설계: 알고리즘에서 분산 운영까지](cs/system-design/rate-limiter.md)
 
+### CS · 네트워크
+
+- [내 IP는 사설 IP인데, 인터넷은 어떻게 되는 걸까요?](cs/network/nat-snat-dnat.md)
+
 ### CS · 웹 보안
 
 - [CORS를 풀었는데, 왜 CSRF는 또 막아야 할까요?](cs/security/cors-csrf-and-csrf-token.md)
